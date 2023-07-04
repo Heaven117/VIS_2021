@@ -1,0 +1,12 @@
+[
+  [ "2019-01-01", 50.23, "<span  class='colorGrass'>↓-1.51%</span>" ],
+  [ "2019-01-02", 54.22, "<span  class='colorRed'>↑7.94%</span>" ],
+  [ "2019-01-03", 57.74, "<span  class='colorRed'>↑6.49%</span>" ],
+  [ "2019-01-04", 56.32, "<span  class='colorGrass'>↓-2.46%</span>" ],
+  [ "2019-01-05", 57.79, "<span  class='colorRed'>↑2.61%</span>" ],
+  [ "2019-01-06", 53.96, "<span  class='colorGrass'>↓-6.63%</span>" ],
+  [ "2019-01-07", 52.89, "<span  class='colorGrass',>↓-1.98%</span>" ],
+  [ "2019-01-08", 54.55, "<span  class='colorRed'>↑3.14%</span>" ],
+  [ "2019-01-09", 56.25, "<span  class='colorRed'>↑3.12%</span>" ],
+  [ "2019-01-10", 58.58, "<span  class='colorRed'>↑4.14%</span>" ]
+]
